@@ -14,6 +14,11 @@ http://localhost:3000/
 or
 http://172.17.0.2:3000/
 
+### Links
+* [Docker Compose CLI](https://docs.docker.com/compose/gettingstarted/)
+*  [ReactJs](https://reactjs.org/docs/getting-started.html)
+
+
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

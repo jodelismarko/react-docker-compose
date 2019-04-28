@@ -1,6 +1,21 @@
 {
-  "name": "react-app",
+  "name": "react-docker-compose",
   "version": "0.1.0",
+  "description": "React app with docker compose",
+  "license": "MIT",
+  "author": {
+    "name": "Tereza Simcic",
+    "email": "tereza.simcic@gmail.com",
+    "url": "tesispro.eu",
+  },
+  "homepage": "https://github.com/tesis/reactjs-docker-compose",
+  "keywords": [
+    "reactJs",
+    "react cli",
+    "redux",
+    "docker",
+    "docker-compose"
+  ],
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
@@ -20,7 +35,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "react-docker-compose"
   },
   "browserslist": [
     ">0.2%",
