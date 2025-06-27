@@ -12,10 +12,10 @@ COPY package*.json ./
 # sort them alphabetically
 #RUN npm install \
 #    npm audit fix
-RUN yarn install
+RUN npm install
 
 COPY . .
 # ADD . .
 EXPOSE 3000
 
-CMD ["yarn", "start"]
+CMD ["npm", "start"]
